@@ -1,6 +1,6 @@
 # 🕵️ Fake or Real: The Impostor Hunt (Kaggle NLP Competition)
 
-This repository contains my solution to the Kaggle competition **[Fake or Real: The Impostor Hunt](https://www.kaggle.com/competitions/fake-or-real-the-impostor-hunt)**. The challenge involves detecting which of two nearly identical texts is closer to the original, aiming to spot subtle LLM-based edits.
+This repository contains my "non-serious and out-for-fun" solution to the Kaggle competition **[Fake or Real: The Impostor Hunt](https://www.kaggle.com/competitions/fake-or-real-the-impostor-hunt)**. The challenge involves detecting which of two nearly identical texts is closer to the original, aiming to spot subtle LLM-based edits.
 
 ---
 
